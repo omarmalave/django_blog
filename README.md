@@ -1,1 +1,1 @@
-django_blog
+Simple bloggin application project
